@@ -1,8 +1,8 @@
 CREATE TABLE client (
-    Client int,
+    Id int,
     FirstName varchar(50),
     LastName varchar(50),
-    Adrees varchar(150),
-    City varchar(50),
+    Adrees varchar(80),
+    City varchar(50),c
     Host varchar(50)
 );
